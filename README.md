@@ -2,35 +2,33 @@
   <img src="https://komarev.com/ghpvc/?username=danird9&label=Profile%20views&color=0e75b6&style=flat" alt="danird9" />
 </p>
 
-<h1 align="center">Hi 👋, I'm danird9</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Danielle</h1>
+<h3 align="center">Smart Contract Engineer • EVM Tooling • MEV Curious</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Code.+Design.+Build.;Let%E2%80%99s+walk+and+work+together+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Solidity+%7C+Foundry+%7C+Rust;Building+forge-gas-diff;Gas+optimization+nerd+%F0%9F%94%A5;Securing+the+EVM%2C+one+block+at+a+time" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 👨‍💻 I’m focused on building sleek UIs with modern frontend tools  
-- 🏃 I love walking — clears my mind and inspires my workflow  
-- 👯 I’m open to collaborating on web apps and frontend systems  
-- 🎯 My goal: Build interfaces that feel like magic ✨
-<img src="https://raw.githubusercontent.com/okineadev/okineadev/main/assets/animation.gif" alt="svg" /> 
-
- 
+- 🔨 Building [`forge-gas-diff`](https://www.npmjs.com/package/forge-gas-diff) — gas diffing for Foundry test suites
+- 🛡️ Previously contributed to DeFi protocol security reviews
+- 📦 Exploring MEV, block-building, and validator infrastructure
+- ⚡ Rust + Solidity. Foundry stan. Terminal dweller.
+- 📫 Reach me: danird9@proton.me
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Foundry-FE7A16?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -40,26 +38,22 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=danird9&theme=radical&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=danird9&theme=tokyonight&hide_border=true" 
     width="400"
   />
 </p>
 
 ---
 
-#### Top Repositories
-
+#### Pinned Repositories
 
 <div align="center">
-<a href="https://github.com/danird9/diffusers">
-  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=danird9&repo=diffusers&theme=buefy" />
-</a>
-
 <a href="https://github.com/danird9/Copy-Trading-Bot-Rust">
-  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=danird9&repo=Copy-Trading-Bot-Rust&theme=buefy" />
+  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=danird9&repo=Copy-Trading-Bot-Rust&theme=tokyonight" />
 </a>
-
 </div>
+
+> *forge-gas-diff repo coming soon — stay tuned.*
 
 ---
 
@@ -68,6 +62,9 @@
 <p align="left">
   <a href="https://github.com/danird9" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:danird9@proton.me">
+    <img alt="ProtonMail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
 </p>
 
