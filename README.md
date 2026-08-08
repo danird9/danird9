@@ -1,3 +1,4 @@
+cat > README.md << 'ENDOFFILE'
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=danird9&label=Profile%20views&color=0e75b6&style=flat" alt="danird9" />
 </p>
@@ -13,7 +14,7 @@
 
 ### 🧠 About Me
 
-- 🔨 Building [`forge-gas-diff`](https://www.npmjs.com/package/forge-gas-diff) — gas diffing for Foundry test suites
+- 🔨 Building [`forge-gas-diff`](https://github.com/danird9/forge-gas-diff) — gas diffing for Foundry test suites
 - 🛡️ Previously contributed to DeFi protocol security reviews
 - 📦 Exploring MEV, block-building, and validator infrastructure
 - ⚡ Rust + Solidity. Foundry stan. Terminal dweller.
@@ -48,12 +49,14 @@
 #### Pinned Repositories
 
 <div align="center">
+<a href="https://github.com/danird9/forge-gas-diff">
+  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=danird9&repo=forge-gas-diff&theme=tokyonight" />
+</a>
+
 <a href="https://github.com/danird9/Copy-Trading-Bot-Rust">
   <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=danird9&repo=Copy-Trading-Bot-Rust&theme=tokyonight" />
 </a>
 </div>
-
-> *forge-gas-diff repo coming soon — stay tuned.*
 
 ---
 
@@ -73,3 +76,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+ENDOFFILE
