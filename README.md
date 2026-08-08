@@ -1,4 +1,3 @@
-cat > README.md << 'ENDOFFILE'
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=danird9&label=Profile%20views&color=0e75b6&style=flat" alt="danird9" />
 </p>
@@ -76,4 +75,3 @@ cat > README.md << 'ENDOFFILE'
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-ENDOFFILE
